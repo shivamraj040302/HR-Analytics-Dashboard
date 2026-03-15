@@ -19,6 +19,7 @@ Using Power BI, this dashboard transforms raw HR data into meaningful insights t
 The dashboard was built using the following tools and technologies:
 
 Power BI
+
 Data visualization
 
 Dashboard creation
@@ -70,18 +71,27 @@ This dataset helps analyze how various factors influence employee attrition.
 i) Business Problem
 
 Employee attrition can lead to increased recruitment costs, loss of experienced employees, and decreased productivity.
+
 HR departments often struggle to identify:
+
 Why employees leave
+
 Which departments have high attrition
+
 Which employee groups are at risk
+
 Without proper analysis, it becomes difficult to make data-driven HR decisions.
 
 ii) Goal of the Dashboard
 
 The main objective of this dashboard is to:
+
 Analyze employee attrition trends
+
 Identify departments with high attrition
+
 Understand the impact of salary, experience, and job roles
+
 Help HR teams make data-driven workforce decisions
 
 iii) Walkthrough of Key Visuals
@@ -109,36 +119,47 @@ These KPIs provide a quick overview of workforce statistics.
 🔹 Attrition by Department
 
 A bar chart showing which departments have the highest employee attrition.
+
 This helps HR teams identify departments facing retention challenges.
 
 🔹 Attrition by Age Group
 
 This visual shows which age groups are most likely to leave the organization.
+
 It helps understand employee behavior across different career stages.
 
 🔹 Attrition by Salary Slab
 
 Displays how salary levels influence employee turnover.
+
 This helps determine if lower salary ranges contribute to higher attrition.
 
 🔹 Attrition by Job Role
 
 Highlights which job roles have the highest number of employees leaving the organization.
+
 This insight can help improve job satisfaction and role-specific policies.
 
 🔹 Attrition by Years at Company
 
 Shows how long employees stay before leaving the organization.
+
 This helps HR understand retention patterns over time.
 
 iv) Business Impact & Insights
 
 The dashboard helps organizations:
+
 ✔ Identify departments with high attrition
+
 ✔ Understand key drivers of employee turnover
+
 ✔ Improve employee retention strategies
+
 ✔ Optimize HR policies and compensation structures
+
 ✔ Make data-driven workforce planning decisions
+
 By leveraging these insights, HR teams can reduce employee attrition and improve overall workforce stability.
 
 📸 6️⃣ Dashboard Snapshot:
