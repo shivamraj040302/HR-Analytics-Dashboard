@@ -19,7 +19,6 @@ Using Power BI, this dashboard transforms raw HR data into meaningful insights t
 The dashboard was built using the following tools and technologies:
 
 Power BI
-
 Data visualization
 
 Dashboard creation
