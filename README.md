@@ -19,18 +19,31 @@ Using Power BI, this dashboard transforms raw HR data into meaningful insights t
 The dashboard was built using the following tools and technologies:
 
 Power BI
+
 Data visualization
+
 Dashboard creation
+
 Interactive filtering
+
 Power Query
+
 Data cleaning
+
 Data transformation
+
 Handling missing values
+
 DAX (Data Analysis Expressions)
+
 Calculated measures
+
 KPI calculations
+
 Data modeling logic
+
 Microsoft Excel / CSV
+
 Data storage and source file
 
 📂 4️⃣ Data Source
@@ -38,12 +51,19 @@ Data storage and source file
 The dataset used in this project is an HR employee dataset containing information about employees such as:
 
 Age
+
 Department
+
 Job Role
+
 Education Field
+
 Years at Company
+
 Job Satisfaction
+
 Attrition Status
+
 This dataset helps analyze how various factors influence employee attrition.
 
 🚀 5️⃣ Features / Highlights
@@ -72,12 +92,19 @@ The dashboard contains several interactive visuals to provide insights into empl
 🔹 Overall Employee Statistics
 
 Displays key metrics such as:
+
 Total Employees
+
 Total Attrition
+
 Attrition Rate
+
 Average Age
+
 Average Salary
+
 Average Years at Company
+
 These KPIs provide a quick overview of workforce statistics.
 
 🔹 Attrition by Department
